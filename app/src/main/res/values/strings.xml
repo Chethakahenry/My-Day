@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">note App</string>
+    <string name="top_titles">Top Titles</string>
+    <string name="section">Section</string>
+</resources>
